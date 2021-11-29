@@ -2,4 +2,4 @@
 Drumkit with JS
 
 
-/** url soon **/
+https://le0nidass.github.io/drum-js/
